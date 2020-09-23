@@ -1,0 +1,176 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #DCDCDC;
+}
+
+div{
+    background-color: white; 
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+.container{
+    width: 1200px;
+    margin: 0px auto;
+    background-color: #DCDCDC;
+}
+
+.topbanner{
+    width: 100%;
+    height: 80px;
+    background-color: #AE2327;
+    text-align: center;
+}
+
+.topbanner:after{
+    content: url("topbanner/topbanner.png");
+}
+
+.webheader1{
+    width: 100%;
+    height: 40px;
+    overflow: auto;
+    background-color: #DCDCDC;
+}
+
+.webheader2{
+    width: 100%;
+    height: 60px;
+    overflow: hidden;
+    background-color: #DCDCDC;
+}
+
+.headerlogo{
+    width: 300px;
+    height: 60px;
+    float: left;
+    background: #DCDCDC;
+}
+
+.headerlogo:after{
+    content: url("logo/logo.png");
+}
+
+.searchbar{
+    float: left;
+    height: 45px;
+    line-height: 45px;
+    width: 600px;
+    margin-left: 20px;
+    background-color: #DCDCDC;
+}
+
+.searchbar input[type="text"]{
+    float: left;
+    display: block;
+    height: 45px;
+    width: 560px;
+    border: 1px solid #DE1F1F;
+    font-size: 20px;
+}
+
+.searchbar button{
+    display: block;
+    float: right;
+    height: 46px;
+    background-color: #DE1F1F;
+    border: 1px solid #DE1F1F;
+}
+
+.searchbar button i{
+    font-size: 38px;
+    color: white;
+}
+
+.giohang{
+    float: right;
+    height: 45px;
+    width: 260px;
+    line-height: 45px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.giohang a{
+    display: block;
+    width: 260px;
+    float: left;
+}
+
+.giohang .name{
+    display: block;
+    float: left;
+    background-color: transparent;
+    margin-left: 30px;
+}
+
+.name{
+    display: block;
+    float: left;
+    background-color: transparent;
+}
+
+.giohang span{
+    display: block;
+    float: left;
+    font-weight: bold;
+}
+
+.giohang .carticon{
+    float: left;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.carticon i{
+    line-height: 45px;
+}
+
+.login{
+    border: none;
+    margin-right: 10px;
+    line-height: 40px; 
+}
+
+.login a{
+    text-align: right;
+}
+
+.content{
+    background-color: #DCDCDC;
+}
+
+.addbtn{
+    margin: 0px;
+    width: 100%;
+    height: 50px;
+    background: #DE1F1F;
+    border: 1px solid #DE1F1F;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.addbtn:hover{
+    background: #696969;
+}
+
+.webfooter{
+    float: left;
+    width: 100%;
+    background: #DE1F1F;
+    color: white;
+    text-align: center;
+    height: 200px;
+    line-height: 100px;
+    margin-top: 20px;
+    clear: both;
+}
