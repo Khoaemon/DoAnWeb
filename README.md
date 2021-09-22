@@ -16,5 +16,5 @@ Bước 5:
 - Chạy url sau để vào trang chủ: http://localhost/myproject/DoAnMonWA/public/trangchu.html
 - Chạy url sau để vào trang admin: http://localhost/myproject/DoAnMonWA/admin/admin.html
 - Đăng nhập trang admin với:
--- Tài khoản: admin
--- Mật khẩu: admin.
+++ Tài khoản: admin
+++ Mật khẩu: admin.
