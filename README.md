@@ -12,7 +12,7 @@ Bước 3: Mở trình duyệt, vào url localhost/phpmyadmin, tạo database c�
 
 Bước 4: Vào thư mục cài đặt xampp, tìm đến htdocs, sau đó copy mục myproject trong mục Sourcecode vào thư mục htdocs.
 
-Bước 5:    + Chạy url sau để vào trang chủ: http://localhost/myproject/DoAnMonWA/public/trangchu.html
+Bước 5: + Chạy url sau để vào trang chủ: http://localhost/myproject/DoAnMonWA/public/trangchu.html
 	+ Chạy url sau để vào trang admin: http://localhost/myproject/DoAnMonWA/admin/admin.html
 	Đăng nhập trang admin với:
 	+ Tài khoản: admin
