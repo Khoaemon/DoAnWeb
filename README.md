@@ -1,4 +1,4 @@
-----Hướng dẫn sử dụng----
+# Hướng dẫn sử dụng #
 
 Bước 1: Cài đặt 2 chương trình Xampp và Notepad++ nếu chưa có. Mục đích:
 - Xampp: chạy localhost.
